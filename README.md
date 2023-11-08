@@ -10,3 +10,6 @@ Goals:
 - Randomize the interval at which pairs of pipes spawn
 - Award a "medal" along with score
 - Implement a pause feautre, simply press "P"
+
+
+![Alt text](image.png)
